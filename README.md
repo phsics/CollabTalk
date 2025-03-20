@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](.png)
+![Demo App](./snap.png)
 
 Highlights:
 
